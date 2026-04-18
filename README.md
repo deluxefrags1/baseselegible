@@ -50,3 +50,4 @@ gracias
 base
 sabia
 truco
+logrado
