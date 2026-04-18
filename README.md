@@ -48,3 +48,4 @@ yes
 si
 gracias
 base
+sabia
