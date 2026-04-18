@@ -51,3 +51,4 @@ base
 sabia
 truco
 logrado
+conosco
