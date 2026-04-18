@@ -49,3 +49,4 @@ si
 gracias
 base
 sabia
+truco
